@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>20G165</string>
+	<string>23H124</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
@@ -27,51 +27,21 @@
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>13A233</string>
+	<string></string>
 	<key>DTPlatformName</key>
 	<string>macosx</string>
 	<key>DTPlatformVersion</key>
-	<string>11.3</string>
+	<string>13.3</string>
 	<key>DTSDKBuild</key>
-	<string>20E214</string>
+	<string>22E245</string>
 	<key>DTSDKName</key>
-	<string>macosx11.3</string>
+	<string>macosx13.3</string>
 	<key>DTXcode</key>
-	<string>1300</string>
+	<string>1431</string>
 	<key>DTXcodeBuild</key>
-	<string>13A233</string>
+	<string>14E300c</string>
 	<key>IOKitPersonalities</key>
 	<dict>
-		<key>AlpsT4USBEventDriver</key>
-		<dict>
-			<key>CFBundleIdentifier</key>
-			<string>com.alexandred.VoodooI2CHID</string>
-			<key>DeviceUsagePairs</key>
-			<array>
-				<dict>
-					<key>DeviceUsage</key>
-					<integer>2</integer>
-					<key>DeviceUsagePage</key>
-					<integer>65281</integer>
-				</dict>
-				<dict>
-					<key>DeviceUsage</key>
-					<integer>1</integer>
-					<key>DeviceUsagePage</key>
-					<integer>65281</integer>
-				</dict>
-			</array>
-			<key>IOClass</key>
-			<string>AlpsT4USBEventDriver</string>
-			<key>IOProbeScore</key>
-			<integer>400</integer>
-			<key>IOProviderClass</key>
-			<string>IOHIDInterface</string>
-			<key>QuietTimeAfterTyping</key>
-			<integer>500</integer>
-			<key>RM,deliverNotifications</key>
-			<true/>
-		</dict>
 		<key>Intel ACPI Sensor Hub Enabler</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
@@ -332,11 +302,6 @@
 			<string>VoodooI2CPrecisionTouchpadHIDEventDriver</string>
 			<key>IOProbeScore</key>
 			<integer>300</integer>
-			<key>IOPropertyMatch</key>
-			<dict>
-				<key>Transport</key>
-				<string>I2C</string>
-			</dict>
 			<key>IOProviderClass</key>
 			<string>IOHIDInterface</string>
 			<key>ProcessBluetoothMouseStopsTrackpad</key>
