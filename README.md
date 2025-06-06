@@ -15,6 +15,9 @@
 > [!CAUTION]
 > This EFI currently uses a DSDT to get trackpad functionality. Hopefully this will be changed in the future.
 
+#### Issues
+[Unstable Wi-Fi](https://github.com/sambow23/Dell-Latitude-3301-macOS/discussions/2)
+
 #### What works
 - CPU power management
 - GPU acceleration and video codecs
