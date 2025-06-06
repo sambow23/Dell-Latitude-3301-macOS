@@ -12,6 +12,8 @@
 | Bootloader | OpenCore 1.0.4 | 
 
 ## Hardware compatibility
+> [!CAUTION]
+> This EFI currently uses a DSDT to get trackpad functionality. Hopefully this will be changed in the future.
 
 #### What works
 - CPU power management
@@ -32,5 +34,5 @@
 - iCloud Services
 - Bluetooth (no kext installed)
 
-# Not working
+#### Not working
 - You tell me
